@@ -1,4 +1,4 @@
-# TEAM 107 | COMP30022 | 2023S2
+# TEAM107 | COMP30022 | 2023S2
 Long Beach Place Website Booking System Team
 ## 🙋‍♀️ Members
 Product Owner: [Stephen Zhang](https://github.com/m1nicrusher) <br>
