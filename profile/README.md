@@ -10,6 +10,6 @@ Developers:
 - [Stephen Zhang](https://github.com/m1nicrusher)
 
 ## 🗄️ Repositories
-Main LBP Website: [lbp-team107/lbp-main](https://github.com/lbp-team107/lbp-main)
-Booking System Development: [lbp-team107/booking-system](https://github.com/lbp-team107/booking-system)
+Main LBP Website: [lbp-team107/lbp-main](https://github.com/lbp-team107/lbp-main)<br>
+Booking System Development: [lbp-team107/booking-system](https://github.com/lbp-team107/booking-system)<br>
 MERN Template: [lbp-team107/mern-template](https://github.com/lbp-team107/mern-template)
