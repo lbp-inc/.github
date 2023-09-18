@@ -9,5 +9,7 @@ Developers:
 - [Yanhai Zhang](https://github.com/Hanny658)
 - [Stephen Zhang](https://github.com/m1nicrusher)
 
-## 🗄️ Main Repository
-Booking System: [lbp-team107/booking-system](https://github.com/lbp-team107/booking-system)
+## 🗄️ Repositories
+Main LBP Website: [lbp-team107/lbp-main](https://github.com/lbp-team107/lbp-main)
+Booking System Development: [lbp-team107/booking-system](https://github.com/lbp-team107/booking-system)
+MERN Template: [lbp-team107/mern-template](https://github.com/lbp-team107/mern-template)
