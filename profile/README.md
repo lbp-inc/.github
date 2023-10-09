@@ -1,3 +1,6 @@
+# Deprecated README
+# DONOTREADME.md
+
 # TEAM107 | COMP30022 | 2023S2
 Long Beach Place Website Booking System Team
 ## 🙋‍♀️ Members
