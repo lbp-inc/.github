@@ -4,9 +4,9 @@
 Main LBP Website: [lbp-inc/lbp-website](https://github.com/lbp-inc/lbp-website)<br>
 
 ## 👋 Teams
-`Team006 == PageContent`
-`Team008 == Timetable`
-`Team009 == Attendance`
-`Team010 == Membership`
-`Team106 == RoomHire`
+`Team006 == PageContent`<br>
+`Team008 == Timetable`<br>
+`Team009 == Attendance`<br>
+`Team010 == Membership`<br>
+`Team106 == RoomHire`<br>
 `Team107 == BookingSystem`
